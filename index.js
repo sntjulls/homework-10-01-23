@@ -19,6 +19,7 @@ function checkUserValue(userInputNumber) {
   ) {
     return true;
   }
+  return false;
 }
 
 // while
